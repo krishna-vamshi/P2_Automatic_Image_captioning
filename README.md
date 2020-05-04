@@ -4,7 +4,7 @@ This repository consists of the solution for the project: Automaic Image Caption
 
 Please restrain yourself from accessing it, if you are currently taking the course. The master code is not altered in any way.
 
-Due to the high amount of time that requires to train the model, only 3 epochs are used for training and loss of 1.96 and perplexity of 6.7is considered satisfactory
+Due to the high amount of time that requires to train the model, only 3 epochs are used for training and loss of 1.96 and perplexity of 6.7 is considered satisfactory
 
 # CVND---Image-Captioning-Project
 
